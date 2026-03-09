@@ -12,3 +12,5 @@ Proyecto de demostración para el curso **GitHub Action**
 - C# 13
 
 - Git + Github
+
+### Licencia MIT
